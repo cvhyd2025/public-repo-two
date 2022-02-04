@@ -1,0 +1,3 @@
+11:47:01	 From  kiran indla : https://learn.hashicorp.com/tutorials/terraform/install-cli
+11:47:04	 From  kiran indla : terraform install
+12:18:27	 From  kiran indla : https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/vpc
